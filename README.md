@@ -10,6 +10,8 @@ I loves studying new things and exploring anything!
   <li>Basic UI/UX Principle</li>
   <li>C++</li>
   <li>Arduino and ESP Projects</li>
+  <li>Problem Solving</li>
+  <li>Critical Thinking</li>
 </ul>
 
 <h2>Reach me on :</h2>
