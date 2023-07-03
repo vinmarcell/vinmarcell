@@ -1,8 +1,8 @@
-<h1>Kelvin Marcellino</h1>
+# Kelvin Marcellino
 Hello, I'm a mechatronics engineer from Indonesia ID, I loves doing Internet of Things projects and some automation to make more efficient works.
 I loves studying new things and exploring anything!
 
-<h2>Skills</h2>
+## Skills
 <ul>
   <li>Internet of Things (IoT)</li>
   <li>HTML & CSS</li>
@@ -14,7 +14,7 @@ I loves studying new things and exploring anything!
   <li>Critical Thinking</li>
 </ul>
 
-<h2>Reach me on :</h2>
+## Reach me on :
 ✉️ : kelvinmarcellinoo@gmail.com <br>
 🔗 : http://bit.ly/kelvinmarcellino
 <p></p>
