@@ -7,7 +7,6 @@ I loves studying new things and exploring anything!
   <li>Internet of Things (IoT)</li>
   <li>HTML & CSS</li>
   <li>Modbus RTU & Modbus TCP/IP</li>
-  <li>Basic UI/UX Principle</li>
   <li>C++</li>
   <li>Arduino and ESP Projects</li>
   <li>Problem Solving</li>
